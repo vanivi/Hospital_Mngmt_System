@@ -3,7 +3,7 @@
 Hospital Management System is an application which consists of different roles and admins who are able to go through data effectively. This project can be used on a large scale in Hospitals to manage the users. 
 Users such as patients can login, system admins can create, update, read, delete data, doctors can record their encounters with patients in a single application, this is beneficial in terms of data handling.
 
-I have created this application on Netbeans using Java Swing. The User interface is designed in such a way that is easy to navigate through different screens.
+I have created this application on Netbeans using Java Swing. The User interface is designed in such a way that is easy to navigate through different screens and is accessible.
 
 Things which were mandatory to add in this project are as followed:-
 
